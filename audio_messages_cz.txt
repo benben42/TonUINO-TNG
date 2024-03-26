@@ -1,0 +1,91 @@
+advert/0300_freeze_into.mp3|Nyní si zahrajeme stop dance. Když hudba ustane, zůstaňte stát!
+advert/0301_freeze_freeze1.mp3|a přestaň!
+advert/0301_freeze_freeze2.mp3|Nehýbej se!
+advert/0301_freeze_freeze3.mp3|jdeme na to!
+advert/0302_sleep.mp3|Funkce Snooze aktivována.
+advert/0303_locked.mp3|TonUINO je nyní uzamčeno.
+advert/0304_buttonslocked.mp3|Klíče jsou nyní zamčené.
+advert/0305_kindergarden.mp3|Režim mateřské školy povolen.
+mp3/0300_new_tag.mp3|Ach, nová karta!
+mp3/0301_select_folder.mp3|Dobře, nyní pomocí tlačítek hlasitosti vyberte složku pro kartu.
+mp3/0310.mp3|Pomocí tlačítek hlasitosti vyberte režim přehrávání. Pokračujte stisknutím tlačítka pauzy.
+mp3/0311_mode_random_episode.mp3|Režim náhodného přehrávání: přehraje náhodný soubor ze složky
+mp3/0312_mode_album.mp3|Režim alba: Přehraje celou složku
+mp3/0313_mode_party.mp3|Party Mode: Náhodné přehrávání skladeb ve složce.
+mp3/0314_mode_single_track.mp3|Single mode: Přehrání určitého souboru ve složce.
+mp3/0315_mode_audio_book.mp3|Režim audioknihy: Přehrajte složku a uložte postup.
+mp3/0316_admin.mp3|Admin funkce.
+mp3/0317_special_random.mp3|Speciální režim Od-Do, Režim náhodného přehrávání: Přehraje náhodný soubor mezi počátečním a koncovým souborem.
+mp3/0318_special_album.mp3|Speciální režim Od-Do, Režim alba: Přehraje všechny soubory mezi počátečním a koncovým souborem.
+mp3/0319_special_party.mp3|Speciální režim Od-Do, Režim Párty: Přehrává všechny soubory mezi počátečním a koncovým souborem náhodně.
+mp3/0320_mode_audio_book_single.mp3|Režim audioknihy singl: Přehrajte další skladbu ve složce a uložte postup.
+mp3/0321_mode_repeat_last_card.mp3|Režim opakování karty: opakuje se poslední karta nebo zkratka.
+mp3/0327_select_file.mp3|OK, nyní prosím vyberte soubor pomocí tlačítek hlasitosti.
+mp3/0328_select_first_file.mp3|OK, nyní prosím vyberte počáteční soubor pomocí tlačítek hlasitosti.
+mp3/0329_select_last_file.mp3|Nyní prosím vyberte konečný soubor pomocí tlačítek hlasitosti.
+mp3/0330.mp3|Mám před každým souborem říkat číslo? Na aktuální číslo se můžete kdykoli zeptat dlouhým stisknutím tlačítka pauzy.
+mp3/0331.mp3|Ne, neříkejte číslo.
+mp3/0332.mp3|Ano, řekni číslo.
+mp3/0400_ok.mp3|OK. Kartu jsem nakonfiguroval.
+mp3/0401_error.mp3|Ach bože! Bohužel to nevyšlo!
+mp3/0402_ok_settings.mp3|Ok, uložil jsem nastavení
+mp3/0800_waiting_for_card.mp3|Vložte prosím kartu hned!
+mp3/0801_remove_card.mp3|Vyjměte prosím kartu ze čtečky!
+mp3/0802_reset_aborted.mp3|OK, proces jsem zrušil.
+mp3/0900_admin.mp3|Vítejte v nabídce správce. Vyberte funkci pomocí tlačítek hlasitosti a potvrďte ji tlačítkem pauzy! Dlouhým stisknutím tlačítka pauzy můžete proces zrušit.
+mp3/0901_card_reset.mp3|Nakonfigurujte novou kartu
+mp3/0902_max_volume.mp3|Nastavte maximální hlasitost.
+mp3/0903_min_volume.mp3|Nastavte minimální hlasitost.
+mp3/0904_init_volume.mp3|Nastavte hlasitost při spuštění.
+mp3/0905_eq.mp3|Nakonfigurujte EQ.
+mp3/0906_modifiers.mp3|Vytvořte modifikační kartu. Tyto karty jsou umístěny za skutečnými hudebními kartami a mění chování vašeho TonUINO.
+mp3/0907_shortcut.mp3|Nakonfigurujte zástupce. Zkratka se spouští dlouhým stiskem klávesy a funguje pouze v případě, že se zrovna nic nepřehrává.
+mp3/0908_standbytimer.mp3|Nakonfigurujte časovač.
+mp3/0909_batch_cards.mp3|Vytvořte jednotlivé karty pro složku.
+mp3/0910_switch_volume.mp3|Invertujte funkci tlačítek hlasitosti.
+mp3/0911_reset.mp3|Smažte všechna nastavení.
+mp3/0912_admin_lock.mp3|Zabezpečte nabídku správce.
+mp3/0913_pause_on_card_removed.mp3|Pauza po vyjmutí karty.
+mp3/0919_continue_admin.mp3|a pokračujte v nabídce správce. Dlouhým stisknutím tlačítka pauzy můžete zrušit nabídku správce.
+mp3/0920_eq_intro.mp3|Vyberte nastavení pro EQ pomocí tlačítek hlasitosti a potvrďte ho tlačítkem pauzy.
+mp3/0921_normal.mp3|Normální
+mp3/0922_pop.mp3|Pop
+mp3/0923_rock.mp3|Rock
+mp3/0924_jazz.mp3|Jazz
+mp3/0925_classic.mp3|Klasický
+mp3/0926_bass.mp3|Bass
+mp3/0930_max_volume_intro.mp3|Zvolte maximální hlasitost a potvrďte tlačítkem pauzy.
+mp3/0931_min_volume_into.mp3|Zvolte minimální hlasitost a potvrďte tlačítkem pauzy.
+mp3/0932_init_volume_into.mp3|Vyberte hlasitost při spuštění a potvrďte klávesou pauza.
+mp3/0933_switch_volume_intro.mp3|Chcete obrátit funkci tlačítek hlasitosti? Chcete-li přejít o jednu skladbu vpřed nebo vzad, musíte tlačítka dlouze stisknout.
+mp3/0934_no.mp3|Ne.
+mp3/0935_yes.mp3|Ano.
+mp3/0936_batch_cards_intro.mp3|OK, nyní prosím umístěte karty na krabici jednu po druhé. Příslušné číslo předem oznámím, abyste se nepletli. Pro zrušení stačí dlouze stisknout tlačítko pauzy!
+mp3/0940_shortcut_into.mp3|Vyberte zástupce, kterého chcete konfigurovat. Pokud máte desku s tlačítky 3 x 3, můžete stisknout tlačítko i tam.
+mp3/0941_pause.mp3|Klávesa nahoru a dolů
+mp3/0942_up.mp3|Klíč nahoru
+mp3/0943_down.mp3|Tlačítko dolů
+mp3/0944_startup.mp3|Na začátku
+mp3/0960_timer_intro.mp3|Po kolika minutách by se mělo TonUINO vypnout?
+mp3/0961_timer_5.mp3|5 minut.
+mp3/0962_timer_15.mp3|15 minut.
+mp3/0963_timer_30.mp3|30 minut.
+mp3/0964_timer_60.mp3|60 minut.
+mp3/0965_timer_disabled.mp3|nevypínejte automaticky
+mp3/0970_modifier_Intro.mp3|Nyní vyberte svou modifikační kartu pomocí tlačítek hlasitosti.
+mp3/0971_modifier_SleepTimer.mp3|Režim odložení
+mp3/0972_modifier_FreezeDance.mp3|Stop Dance - TonUINO s vámi hraje stop dance a náhodně za vás krátce zastaví přehrávání.
+mp3/0973_modifier_Locked.mp3|Zámek TonUINO
+mp3/0974_modifier_Toddler.mp3|Režim batole - Všechny klávesy TonUINO jsou zamčené pro ty velmi malé. Karty stále fungují.
+mp3/0975_modifier_KinderGarden.mp3|Režim školky – Aby nedocházelo ke konfliktům, nové karty se nehrají hned, ale až po dohrání aktuální písničky. Tlačítka vpřed a vzad jsou uzamčena.
+mp3/0976_modifier_repeat1.mp3|Opakovat titul – donekonečna opakovat aktuální titul.
+mp3/0980_admin_lock_intro.mp3|Vyberte, zda a jak má být menu správce chráněno.
+mp3/0981_admin_lock_disabled.mp3|Bez ochrany - menu správce lze kdykoli aktivovat stisknutím všech tří tlačítek.
+mp3/0982_admin_lock_card.mp3|Pouze administrátorská karta - menu administrátora lze otevřít pouze s kartou administrátora. Novou kartu správce lze naučit kdykoli.
+mp3/0983_admin_lock_pin.mp3|Zadejte PIN kód - menu správce je chráněno čtyřmístným PINem. Když vyberete tuto možnost, další věc, kterou musíte udělat, je nastavit špendlík.
+mp3/0984_admin_lock_calc.mp3|Výpočetní úloha - do admin menu lze vstoupit pouze řešením výpočtové úlohy.
+mp3/0991_admin_pin.mp3|Zadejte prosím PIN
+mp3/0992_admin_calc.mp3|Kolik je
+mp3/0993_admin_calc.mp3|Plus
+mp3/0994_admin_calc.mp3|mínus
+mp3/0999_reset_ok.mp3|Reset byl proveden!

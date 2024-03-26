@@ -23,7 +23,8 @@ sayVoiceByLang = {
     'nl': 'Xander',
     'es': 'Monica',
     'cz': 'Zuzana',
-    'it': 'Alice'
+    'it': 'Alice',
+    'sk': 'Laura'
 }
 googleVoiceByLang = {
     'de': { 'languageCode': 'de-DE', 'name': 'de-DE-Wavenet-C' },
@@ -32,7 +33,8 @@ googleVoiceByLang = {
     'nl': { 'languageCode': 'nl-NL', 'name': 'nl-NL-Wavenet-A' },
     'es': { 'languageCode': 'es-ES', 'name': '' },
     'cz': { 'languageCode': 'cs-CZ', 'name': 'cs-CZ-Wavenet-A' },
-    'it': { 'languageCode': 'it-IT', 'name': 'it-IT-Standard-B' }
+    'it': { 'languageCode': 'it-IT', 'name': 'it-IT-Standard-B' },
+    'sk': { 'languageCode': 'sk-SK', 'name': 'sk-SK-Wavenet-A' }
 }
 amazonVoiceByLang = {
     # See: https://docs.aws.amazon.com/de_de/polly/latest/dg/voicelist.html
@@ -47,7 +49,9 @@ coquiVoiceByLang = {
     # Available language models: 'tts --list_models'
     # Audio examples: https://www.youtube.com/watch?v=Vnjv2L31eyQ
     'de': 'tts_models/de/thorsten/tacotron2-DDC', #See https://www.thorsten-voice.de/
-    'en': 'tts_models/en/ljspeech/vits'
+    'en': 'tts_models/en/ljspeech/vits',
+    'cz': 'tts_models/cs/cv/vits',
+    'sk': 'tts_models/sk/cv/vits'
 }
 
 textToSpeechDescription = """
